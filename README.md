@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Sahil Kumar! 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sahilkumar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/sahil-kumar-7410a728a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://sahil-portfolio-76e8d.web.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/Sahil5273"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
@@ -129,6 +129,6 @@ I build **Agentic AI Systems**, **Robust RAG Pipelines**, and **Production-Grade
 
 <p align="center">
   <a href="https://sahil-portfolio-76e8d.web.app/">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/sahilkumar">💼 LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/sahil-kumar-7410a728a/">💼 LinkedIn</a> •
   <a href="https://github.com/Sahil5273">🐙 GitHub</a>
 </p>
